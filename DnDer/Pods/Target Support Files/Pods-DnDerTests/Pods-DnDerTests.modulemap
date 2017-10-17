@@ -1,0 +1,6 @@
+framework module Pods_DnDerTests {
+  umbrella header "Pods-DnDerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
